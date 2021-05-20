@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Cyrax000
-- 🌱 I’m currently learning software development
+- 👋 Hola, Soy @Cyrax000.
+- 🌱 Actualmente estoy aprendiendo desarrollo de software.
+
+- 👋 Hi, I’m @Cyrax000.
+- 🌱 I’m currently learning software development.
 
 <!---
 Cyrax000/Cyrax000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
